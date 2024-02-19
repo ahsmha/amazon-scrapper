@@ -1,0 +1,9 @@
+- amazon-scrapper
+  a puppeteer based api which fetches you top 5 results on any search keyword.
+
+- instructions
+  `npm install`
+  then run and you're good to go.
+
+- api endpoint
+  localhost:3000/search?keyword=pyjamas
