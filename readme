@@ -3,7 +3,8 @@
 
 - instructions
   `npm install`
+  `node app.js` inside the directory.
   then run and you're good to go.
 
 - api endpoint
-  localhost:3000/search?keyword=pyjamas
+  localhost:3000/search?keyword=gaming+laptops
